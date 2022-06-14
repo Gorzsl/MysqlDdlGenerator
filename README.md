@@ -1,0 +1,2 @@
+# MysqlDdlGenerator
+根据视图sql生成对应物理表的ddl语句
